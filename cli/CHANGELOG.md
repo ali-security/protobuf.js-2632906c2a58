@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.6.1](https://github.com/protobufjs/protobuf.js/compare/protobufjs-cli-v2.6.0...protobufjs-cli-v2.6.1) (2026-07-09)
+
+
+### Bug Fixes
+
+* **cli:** Preserve array element union precedence in pbts ([#2378](https://github.com/protobufjs/protobuf.js/issues/2378)) ([2a697a5](https://github.com/protobufjs/protobuf.js/commit/2a697a5e918ff2cc63bfb6993a5ba17e0d1c1fbd))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * protobufjs bumped from file:.. to 8.7.1
+  * peerDependencies
+    * protobufjs bumped from ^8.7.0 to ^8.7.1
+
 ## [2.6.0](https://github.com/protobufjs/protobuf.js/compare/protobufjs-cli-v2.5.7...protobufjs-cli-v2.6.0) (2026-07-06)
 
 

@@ -1,5 +1,16 @@
 # Changelog
 
+## [8.7.1](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.7.0...protobufjs-v8.7.1) (2026-07-09)
+
+
+### Bug Fixes
+
+* accept repeated NullValue elements in ProtoJSON ([#2373](https://github.com/protobufjs/protobuf.js/issues/2373)) ([ad0b9bb](https://github.com/protobufjs/protobuf.js/commit/ad0b9bb95115bb8eb3a5752cb27635bb941f6f69))
+* Base64-encode bytes field defaults in toObject ([#2375](https://github.com/protobufjs/protobuf.js/issues/2375)) ([e552511](https://github.com/protobufjs/protobuf.js/commit/e552511950901519971150fb2a492150bdbeb2e3))
+* **cli:** Preserve array element union precedence in pbts ([#2378](https://github.com/protobufjs/protobuf.js/issues/2378)) ([2a697a5](https://github.com/protobufjs/protobuf.js/commit/2a697a5e918ff2cc63bfb6993a5ba17e0d1c1fbd))
+* Merge repeated message-valued fields within map entries ([#2364](https://github.com/protobufjs/protobuf.js/issues/2364)) ([13b417b](https://github.com/protobufjs/protobuf.js/commit/13b417b6ff550f56e72f9332ffcafc35c1f79cba))
+* Parse bracketed special field names in options ([#2377](https://github.com/protobufjs/protobuf.js/issues/2377)) ([dd1870b](https://github.com/protobufjs/protobuf.js/commit/dd1870b4a60f9eeb23a3fa5325b7ddadc06e3fe5))
+
 ## [8.7.0](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.6.6...protobufjs-v8.7.0) (2026-07-06)
 
 
